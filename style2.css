@@ -197,11 +197,6 @@ header {
     margin-bottom: 10%;
 }
 
-
-
-
-
-
 .containerg {
     background-color: #2B2C64;
     padding: 0px 50px 20px 50px;
@@ -274,6 +269,40 @@ header {
     margin-bottom: 10%;
 }
 
+.containerc {
+    background-color: #FFF9EE;
+    padding: 0px 15px 20px 50px;
+    width: 90%;
+    border-radius: 60px;
+    border: 5px solid #252645;
+    margin-top: 5%;
+}
+
+.textc {
+    font-size: 3.5rem;
+    color: #5241a7;
+    text-align: left;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.textbc {
+    font-size: 1.3rem;
+    color: #101010;
+    text-align: center;
+}
+
+.puyc {
+    border: none;
+    border-radius: 15px;
+    font-size: 1.3rem;
+    color: #ffffff;
+    background-color: #252645;
+    padding: 20px 20px;
+    width: 90%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
 
 .containerb,
 .containerg,
@@ -304,10 +333,14 @@ header {
     color:#252645
 }
 
+.puyc:hover{
+    background-color: #5241a7; 
+    color:#ffffff
+}
 .contact21{
 text-align: center;
 font-size: 1.2rem;
-margin-bottom: 10%;
+margin-bottom: 5%;
 }
 
 .contact-form {
@@ -471,6 +504,35 @@ margin-bottom: 10%;
     }
 
     .puy3{
+        width: 160%;
+        margin-top: 10%;
+        margin-bottom: 10%;
+        font-size: 1rem;
+        margin-left: -10%;
+    }
+
+    .containerc{
+        padding: 10px 160px ;
+        margin-left: 10%;
+        margin-top: 10%;
+    }
+
+    .textc {
+        font-size: 2.5rem;
+        margin-bottom: 20px;
+        text-align: left;
+        margin-left: -70%;
+    }
+
+    .textbc{
+        font-size: 1.3rem;
+        color: #101010;
+        text-align: left;
+        margin-left: -70%;
+        margin-bottom: 20px;
+    }
+
+    .puyc{
         width: 160%;
         margin-top: 10%;
         margin-bottom: 10%;
